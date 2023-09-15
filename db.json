@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin user",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "phone": "0123",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    }
+  ],
+  "customer":[
+    {
+      "code":1,
+      "name":"Chris",
+      "email":"chris@in.com"
+    }
+    
+  ]
+}
